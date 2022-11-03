@@ -1,0 +1,12 @@
+.spacer {
+  padding: 10px;
+}
+
+.form-control {
+  display: flex;
+  flex-direction: column;
+}
+
+.inline-form {
+  display: flex;
+}
